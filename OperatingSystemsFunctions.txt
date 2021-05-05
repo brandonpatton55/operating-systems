@@ -2,3 +2,7 @@ one function that an opperating system does is it provides a user interface.
 a user interface controls how you see and how you enter data on the device. 
 their are two types of user interfaces; a graphical user interface, and a command line interface.
 Graphical user interface is what windows and MacOS uses.
+
+another function that an opperating system does is it manages the programs.
+while some opperating system can only handle one program at a time, most are able to rum multipe programs at a time.
+running multiple programs at once is what allows me to switch between atom and D2L to make sure that my webpage meets all the requirements.
