@@ -1,0 +1,4 @@
+one function that an opperating system does is it provides a user interface. 
+a user interface controls how you see and how you enter data on the device. 
+their are two types of user interfaces; a graphical user interface, and a command line interface.
+Graphical user interface is what windows and MacOS uses.
