@@ -6,3 +6,9 @@ Graphical user interface is what windows and MacOS uses.
 another function that an opperating system does is it manages the programs.
 while some opperating system can only handle one program at a time, most are able to rum multipe programs at a time.
 running multiple programs at once is what allows me to switch between atom and D2L to make sure that my webpage meets all the requirements.
+
+the last function that i will talk about is that opperating systems manage memory.
+their are two different types of memory that a system can use; ram and virtual memory.
+programs will use ram until it is full, then the OS will switch over to use virtual memory.
+virtual memory is very slow compared to RAM.
+this is why your computer gets very slow when there are a lot of different processes being ran.
